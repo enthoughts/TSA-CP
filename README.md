@@ -1,2 +1,3 @@
-# Chronos-Studio
-A Time Series Analysis software
+# TSA CP
+A Time Series Analysis Course Project
+
